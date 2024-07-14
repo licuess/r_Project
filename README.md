@@ -1,1 +1,1 @@
-my frist project on rust
+my first project on rust
