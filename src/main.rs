@@ -20,5 +20,5 @@ fn main() {
     } else {
         println!("Yes. It's definitely *not* linux!");
     }
-    println!("Hello World to zed");
+    println!("hello world to zed");
 }
