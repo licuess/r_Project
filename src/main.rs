@@ -1,7 +1,7 @@
 // 这个函数仅当目标系统是 linux 的时候才会编译
 #[cfg(target_os = "linux")]
 fn are_you_on_linux() {
-    let var_name = println!("You are running linux!");
+    let var_name =   println!("You are running linux!");
     var_name
 }
 
